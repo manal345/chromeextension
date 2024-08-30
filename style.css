@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+}
+
+#joke-container {
+    text-align: center;
+    padding: 10px;
+}
+
+#joke {
+    font-size: 16px;
+    color: #333;
+}
